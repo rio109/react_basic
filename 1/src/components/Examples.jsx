@@ -1,4 +1,4 @@
-import { TabButton, TabButton2 } from '../components/TabButton.jsx'
+import { TabButton, TabButton2 } from './TabButton.jsx'
 import { useState } from 'react'
 
 import { EXAMPLES } from '../data.js'
